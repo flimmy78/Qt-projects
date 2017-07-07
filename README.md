@@ -8,5 +8,5 @@ ChineseChess： 中国象棋，其中添加了联网对战功能，需要调试�
 doudizhu：  斗地主游戏，完成了一部分，算法部分需完善。  
 OthelloOnline： 黑白棋，又叫奥赛罗，简单又好玩。  
 SignalGuessNum： 猜数字游戏，给出一个数字，会提示偏大还是偏小，直至猜出正确数字为止。  
-WinMine：   扫雷游戏源码。和windows的玩法一样。
+WinMine：   扫雷游戏源码。和windows的玩法一样。  
 
